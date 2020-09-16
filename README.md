@@ -5,8 +5,8 @@ Full-Stack Development!
 - 💬 Ask me about ...
 Anything basketball!
 - 📫 How to reach me: ...
-Cell: (206)304-7899
+Cell: (206) 304-7899
 Email: Thompsonwilliam729@gmail.com
 - ⚡ Fun fact: 
-Can Almost dunk a basketball?
+Can almost dunk a basketball?
                                                                      
