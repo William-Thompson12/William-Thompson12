@@ -9,3 +9,4 @@ Email: Thompsonwilliam729@gmail.com
 - ⚡ Fun fact: 
 Can almost dunk a basketball?
                                                                      
+![Github stats](https://github-readme-stats.vercel.app/api?username=William-Thompson12)
