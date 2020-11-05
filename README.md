@@ -1,4 +1,6 @@
 ### Hi there
+
+## Links:
 Linkedin: https://www.linkedin.com/in/william-thompson-04046a1a0/
 
 I'll be adding cool stuff soon
