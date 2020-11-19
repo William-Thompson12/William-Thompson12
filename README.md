@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my ["Full-Stack Project"](Link TO Project coming soon)
 
-- 🌱 I’m currently learning **React, Npm, Node, and Python**
+- 🌱 I’m currently learning **Express, Npm, Node, and Python**
 
 - 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio coming soon)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Link TO Resume](Link TO Resume coming soon)
 
-- ⚡ Fun fact **| Basketball Fanatic | Anime Watcher | Seasoned Gamer | Learning the Piano! |**
+- ⚡ Fun facts **| Basketball Fanatic | Anime Watcher | Seasoned Gamer | Learning the Piano! |**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
