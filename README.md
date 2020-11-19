@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathannosudoWilliam-Thompson12&label=Profile%20views&color=0e75b6&style=flat" alt="William-Thompson12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=William-Thompson12" alt="William-Thompson12" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=William-Thompson12" alt="William-Thompson12" /></a> </p>
 
 - 🔭 I’m currently working on my ["Full-Stack Project"](Link TO Project coming soon)
 
