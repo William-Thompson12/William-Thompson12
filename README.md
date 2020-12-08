@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Link TO Resume](Link TO Resume coming soon)
 
-- ⚡ Fun facts **| Basketball Fanatic | Anime Watcher | Seasoned Gamer | Learning the Piano! |**
+- ⚡ Fun facts **| Basketball Fanatic | Learning the Piano! |**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
