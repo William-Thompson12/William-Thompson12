@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my ["Full-Stack Project"](Link TO Project coming soon)
 
-- 🌱 I’m currently learning **Express, Npm, Node, and Python**
+- 🌱 I’m currently learning **Postgres/SQL, Express, and Python**
 
 - 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio coming soon)
 
