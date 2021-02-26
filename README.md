@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on my <a href="https://github.com/William-Thompson12/Full-Stack-Budget" target="blank">Full-Stack-Project</a>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **Thompsonwilliam729@gmail.com** <a href="https://www.linkedin.com/in/william-thompson-04046a1a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
+- 📫 How to reach me **Thompsonwilliam729@gmail.com** || <a href="https://www.linkedin.com/in/william-thompson-04046a1a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
 </p>
 
 - ⚡ Fun facts **| Basketball Fanatic | Learning the Piano! |**
