@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=William-Thompson12" alt="William-Thompson12" /></a> </p>
 
-- 🔭 I’m currently working on my <a href="https://github.com/William-Thompson12/Full-Stack-Bugdet" target="blank">Full-Stack-Project</a>
+- 🔭 I’m currently working on my 100 Day Code Challange!
 
 - 🌱 I’m currently learning **Python**
 
