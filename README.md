@@ -12,6 +12,6 @@
 - 📫 How to reach me **Thompsonwilliam729@gmail.com** || <a href="https://www.linkedin.com/in/william-thompson-04046a1a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
 </p>
 
-- ⚡ Fun facts **| Basketball Fanatic | Learning the Piano! |**
+- ⚡ Fun facts **| Basketball Fanatic |**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=William-Thompson12)
